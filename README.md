@@ -9,24 +9,24 @@ The aim of this project is to moidify a particular website, meet certain standar
 
 Built With
 
-    HTML
-    CSS
+- HTML
+- CSS
 
 
 ## Work Completed
 
 Refactoring the website code by adding the following:
 
-    [x]Semantic HTML elements
-    [x]Making the elements follow a logical structure independent styling and positioning
-    [x]Adding alt attributes
-    [x]Heading attributes fall in sequential order
-    [x]adding a descriptive title
+- [x]Semantic HTML elements
+- [x]Elements follow logical structure independent styling and positioning
+- [x]Adding alt attributes
+- [x]Heading attributes fall in sequential order
+- [x]adding a descriptive title
 
 
-## Application Link
+## Project Visual
 
-
+![Project-Picture](./Images/Mockup.png)
 
 
 
