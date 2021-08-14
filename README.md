@@ -18,6 +18,6 @@ The aim of this project is to moidify a particular website, meet certain standar
 © Kenechukwu K Ilochonwu, Web Project Design
 
 
-Licensed under the [MIT LICENSE] (LICENSE).
+Licensed under the [LICENSE] (MIT LICENSE)
 
 
