@@ -26,7 +26,7 @@ Refactoring the website code by adding the following:
 
 ## Project Visual
 
-![Project-Picture](../assests/images/Mockup.png)
+![Project-Picture](./assests/images/Mockup.png)
 
 
 
